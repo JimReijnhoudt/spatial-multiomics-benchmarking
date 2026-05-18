@@ -1,0 +1,8 @@
+name: miso
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.7
+  - git-lfs
+prefix: /home/mnxsybi_lumc/.conda/envs/miso
