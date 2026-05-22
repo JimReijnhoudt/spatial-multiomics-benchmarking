@@ -2,3 +2,4 @@ test_notebooks/data/
 test_notebooks/smoke_test_plots/
 test_notebooks/miso_smoke_test_plots/
 test_notebooks/.ipynb_checkpoints/
+.vscode
