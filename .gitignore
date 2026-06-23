@@ -3,3 +3,12 @@ test_notebooks/smoke_test_plots/
 test_notebooks/miso_smoke_test_plots/
 test_notebooks/.ipynb_checkpoints/
 .vscode
+/benchmarks
+/__pycache__
+/data
+/SpatialMETA/
+/miso
+/miso_tutorial_data
+benchmark_evaluation_log.txt
+results_metrics_run.json
+results_run.json
