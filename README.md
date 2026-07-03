@@ -117,6 +117,13 @@ adata = sc.read_h5ad('/workspace/data/Y7_T_joint.h5ad')
 
 ---
 
+## Downloading H&E image for MISO 3m
+
+MISO 3M requires the raw H&E image to generate an image embedding. Because the raw image file is too large to include in this repository, you can download it here:
+[Download the raw H&E image](https://figshare.com/articles/dataset/Multi-omic_profiling_of_clear_cell_renal_cell_carcinoma_identifies_metabolic_reprogramming_associated_with_disease_progression/24599295?file=43225668)
+
+---
+
 ## CRITICAL: MISO Pretrained Weights
 
 Sometimes the MISO GitHub repository exceeds its LFS storage budget, meaning the
