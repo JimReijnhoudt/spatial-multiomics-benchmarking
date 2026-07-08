@@ -4,6 +4,7 @@ test_notebooks/miso_smoke_test_plots/
 test_notebooks/.ipynb_checkpoints/
 .vscode
 /benchmarks
+/visualizations_benchmarking
 /__pycache__
 /data
 /SpatialMETA/
